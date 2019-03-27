@@ -1,0 +1,9 @@
+c:\users\hirotoshi\documents\visual studio 2015\Projects\ftp_client_1\ftp_client_1\bin\Debug\ftp_client_1.exe.config
+c:\users\hirotoshi\documents\visual studio 2015\Projects\ftp_client_1\ftp_client_1\bin\Debug\ftp_client_1.exe
+c:\users\hirotoshi\documents\visual studio 2015\Projects\ftp_client_1\ftp_client_1\bin\Debug\ftp_client_1.pdb
+c:\users\hirotoshi\documents\visual studio 2015\Projects\ftp_client_1\ftp_client_1\obj\Debug\ftp_client_1.csprojResolveAssemblyReference.cache
+c:\users\hirotoshi\documents\visual studio 2015\Projects\ftp_client_1\ftp_client_1\obj\Debug\ftp_client_1.Form1.resources
+c:\users\hirotoshi\documents\visual studio 2015\Projects\ftp_client_1\ftp_client_1\obj\Debug\ftp_client_1.Properties.Resources.resources
+c:\users\hirotoshi\documents\visual studio 2015\Projects\ftp_client_1\ftp_client_1\obj\Debug\ftp_client_1.csproj.GenerateResource.Cache
+c:\users\hirotoshi\documents\visual studio 2015\Projects\ftp_client_1\ftp_client_1\obj\Debug\ftp_client_1.exe
+c:\users\hirotoshi\documents\visual studio 2015\Projects\ftp_client_1\ftp_client_1\obj\Debug\ftp_client_1.pdb
